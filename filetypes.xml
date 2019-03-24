@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="proto" type="JAVA" />
+      <mapping pattern="soa_xproduct_data" type="JSON" />
+      <mapping pattern="soa_xproduct_data.json" type="JSON" />
+      <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="gift_marketing_code" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="bjsc" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

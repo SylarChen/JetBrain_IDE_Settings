@@ -1,0 +1,33 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.9.3" last-modified="1512717134000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+  </component>
+  <component name="com.seventh7.widget.iedis.config.I">
+    <pattern>*</pattern>
+    <pattern>flight.mobile.home.page.13028401.response.M2236973463.320011436100000317941111111111.-1087720993</pattern>
+    <pattern>ttl flight.mobile.home.page.13028401.response.M2236973463.320011436100000317941111111111.-1087720993</pattern>
+    <pattern>get flight.mobile.home.page.13028401.response.M2236973463.320011436100000317941111111111.-1087720993</pattern>
+    <pattern>response.13028401.M2236973463.320011436100000317941111111111.1035940582</pattern>
+    <pattern>response.13028401.M2236973463.320011436100000317941111111111.-1343580413</pattern>
+    <pattern>keys</pattern>
+    <pattern>set key1 xxxx</pattern>
+    <pattern>get key1</pattern>
+    <pattern>KEYS</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="127.0.0.1" host="10.5.121.142" port="6379" password="" timestamp="1537369866690" />
+    </servers>
+    <servers>
+      <general label="127.0.0.2" host="10.5.121.144" port="6379" password="" timestamp="1537370071797" />
+    </servers>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://10.2.7.108:9000/sonar" />
+          <option name="name" value="ctrip_sonar" />
+          <option name="login" value="dev" />
+          <password>dfc9dfdedfd8dfc3dfdadf9bdf98df99</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
