@@ -3,17 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-web/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/web/service/CityPageDataService.java" timestamp="1553489015827" />
+      <file name="$MAVEN_REPOSITORY$/com/ctrip/model/flight/mobile/homepage/fuzzysearch/flt-firstpage-fuzzy-search-service/1.0.10/flt-firstpage-fuzzy-search-service-1.0.10-sources.jar!/com/ctrip/model/flight/mobile/homepage/fuzzysearch/v1/entity/FlightCityPageDataRequestType.java" timestamp="1553489030763" />
       <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-web/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/web/Application.java" timestamp="1553488523792">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="66" column="27" />
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-web/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/web/FlightHomePageFuzzySearchImpl.java" timestamp="1553488944128">
-        <mark key="[" line="56" column="46" />
-        <mark key="]" line="58" column="69" />
-        <mark key="^" line="58" column="69" />
-        <mark key="." line="58" column="69" />
+      <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-web/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/web/FlightHomePageFuzzySearchImpl.java" timestamp="1553489163049">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1553423265142">
         <mark key="[" line="0" column="0" />
@@ -26,11 +27,20 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBGbGlnaHRDaXR5UGFnZURhdGFSZXNwb25zZVR5cGUgZmxpZ2h0Q2l0eVBhZ2VEYXRhKEZsaWdodENpdHlQYWdlRGF0YVJlcXVlc3RUeXBlIHJlcXVlc3QpIHsK</text>
+      </register>
       <register name="r" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>全世界列表查询</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBGbGlnaHRDaXR5UGFnZURhdGFSZXNwb25zZVR5cGUgZmxpZ2h0Q2l0eVBhZ2VEYXRhKEZsaWdodENpdHlQYWdlRGF0YVJlcXVlc3RUeXBlIHJlcXVlc3QpIHsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBNb2JpbGVTZXJ2aWNlKGNvZGUgPSAiMTMwMzEyMDEiLCBuYW1lID0gIuWfjuW4gumhteaVsOaNruS4i+WPkSIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="-" type="4">
         <text>全世界列表查询</text>
