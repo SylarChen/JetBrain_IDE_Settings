@@ -5,6 +5,10 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="meta button143" />
   </action>
+  <action id="Scala.ExpandImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="meta comma" />
     <keyboard-shortcut first-keystroke="meta alt s" />
