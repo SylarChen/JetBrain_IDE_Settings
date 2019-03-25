@@ -3,9 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-domain/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/domain/poi/airportcityhandle/AirportImpl.java" timestamp="1553480572491" />
       <file name="/HTML File.txt.ft" timestamp="1553423265142">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ctrip/model/flight/mobile/homepage/fuzzysearch/flt-firstpage-fuzzy-search-service/1.0.10/flt-firstpage-fuzzy-search-service-1.0.10-sources.jar!/com/ctrip/model/flight/mobile/homepage/fuzzysearch/v1/entity/FlightPublicAirportInformation.java" timestamp="1553480697348" />
     </filemarks>
     <jumps />
     <registers />
