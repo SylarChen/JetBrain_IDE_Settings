@@ -3,16 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-web/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/web/Application.java" timestamp="1553485970232">
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="63" column="8" />
-        <mark key="." line="63" column="8" />
+      <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-web/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/web/Application.java" timestamp="1553488523792">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+        <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-web/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/web/FlightHomePageFuzzySearchImpl.java" timestamp="1553482835123">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="33" column="13" />
-        <mark key="^" line="33" column="13" />
-        <mark key="." line="33" column="13" />
+      <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-web/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/web/FlightHomePageFuzzySearchImpl.java" timestamp="1553488944128">
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="58" column="69" />
+        <mark key="^" line="58" column="69" />
+        <mark key="." line="58" column="69" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1553423265142">
         <mark key="[" line="0" column="0" />
@@ -29,10 +30,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>全世界列表查询</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>全世界列表查询</text>
       </register>
     </registers>
     <search>
@@ -54,6 +55,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
