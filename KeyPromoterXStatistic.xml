@@ -6,7 +6,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>9</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -30,7 +30,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>16</Count>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
