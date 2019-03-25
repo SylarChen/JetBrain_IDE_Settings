@@ -10,15 +10,27 @@
         <mark key="^" line="33" column="13" />
         <mark key="." line="33" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ctrip/flight/mobile/business/common/0.0.14/common-0.0.14.jar!/com/ctrip/flight/mobile/business/exception/RequestValidationException.class" timestamp="1553483645495" />
       <file name="/HTML File.txt.ft" timestamp="1553423265142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ctrip/model/flight/mobile/homepage/fuzzysearch/flt-firstpage-fuzzy-search-service/1.0.10/flt-firstpage-fuzzy-search-service-1.0.10-sources.jar!/com/ctrip/model/flight/mobile/homepage/fuzzysearch/v1/entity/FlightMultiRotesLowPriceCalendarRequestType.java" timestamp="1553483113322" />
+      <file name="$USER_HOME$/workspace/java/home-page-fuzzysearch/fuzzy-search-domain/src/main/java/com/ctrip/flight/mobile/home/fuzzysearch/domain/calendar/CalendarRequestValidator.java" timestamp="1553483686165">
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="39" />
+        <mark key="." line="68" column="39" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="r" type="4">
         <text />
+      </register>
+      <register name="&quot;" type="4">
+        <text>{</text>
+      </register>
+      <register name="-" type="4">
+        <text>{</text>
       </register>
     </registers>
     <search>
@@ -34,6 +46,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
