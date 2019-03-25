@@ -1,12 +1,36 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Debug 'Application'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
+          <Description>Debug 'Application'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="GoTo">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>8</Count>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Application'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥⇧X' or '⇧F10'</ShortCut>
+          <Description>Run 'Application'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Application'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Application'</Description>
+          <Count>16</Count>
         </Item>
       </Statistic>
     </option>
