@@ -14,6 +14,10 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="shift alt s" />
