@@ -78,6 +78,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
@@ -93,5 +96,8 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl f2" />
     <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="TodoViewGroupByFlattenPackage">
+    <keyboard-shortcut first-keystroke="meta f" />
   </action>
 </keymap>
