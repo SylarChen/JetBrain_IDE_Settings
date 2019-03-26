@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Analyze with SonarLint">
+        <Item>
+          <IdeaActionID>SonarLint.AnalyzeFiles</IdeaActionID>
+          <ShortCut>'⌃⇧S'</ShortCut>
+          <Description>Analyze with SonarLint</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Back">
         <Item>
           <IdeaActionID>Back</IdeaActionID>
@@ -119,6 +127,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
           <Count>57</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Surround with Live Template...">
+        <Item>
+          <IdeaActionID>SurroundWithLiveTemplate</IdeaActionID>
+          <ShortCut>'⌃⌥J'</ShortCut>
+          <Description>Surround with Live Template...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
