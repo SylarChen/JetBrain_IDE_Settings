@@ -14,6 +14,9 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
