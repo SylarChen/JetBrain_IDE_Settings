@@ -161,6 +161,14 @@
           <Count>80</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CombineRouteInformationConvertTest.convert'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
+          <Description>Stop 'CombineRouteInformationConvertTest.convert'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Surround with Live Template...">
         <Item>
           <IdeaActionID>SurroundWithLiveTemplate</IdeaActionID>
