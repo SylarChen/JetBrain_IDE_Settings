@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>39</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CombineRouteInformationConvertTest.convert'">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>148</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -142,7 +142,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>62</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -166,7 +166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>84</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CombineRouteInformationConvertTest.convert'">
@@ -206,7 +206,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
