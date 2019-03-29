@@ -177,6 +177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.ctrip.flight.mobile.home.fuzzysearch.domain.poi in fuzzy-search-domain'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
+          <Description>Stop 'com.ctrip.flight.mobile.home.fuzzysearch.domain.poi in fuzzy-search-domain'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Surround with Live Template...">
         <Item>
           <IdeaActionID>SurroundWithLiveTemplate</IdeaActionID>
