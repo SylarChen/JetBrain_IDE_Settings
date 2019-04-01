@@ -257,6 +257,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BusListRequestBuilderTest.build2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
+          <Description>Stop 'BusListRequestBuilderTest.build2'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BusRoutesTranslatorTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -326,7 +334,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
