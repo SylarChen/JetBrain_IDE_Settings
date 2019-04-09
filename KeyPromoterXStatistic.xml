@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'ServiceStarter'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>381</Count>
+          <Count>392</Count>
         </Item>
       </Statistic>
       <Statistic Action="Mark Object...">
@@ -230,7 +230,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>332</Count>
+          <Count>333</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -374,7 +374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
           <Description>Stop 'ServiceStarter'</Description>
-          <Count>27</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TrainListRequestBuilderTest'">
@@ -438,7 +438,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>170</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
