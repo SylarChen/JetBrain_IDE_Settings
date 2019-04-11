@@ -6,7 +6,7 @@
           <IdeaActionID>Debugger.AddToWatch</IdeaActionID>
           <ShortCut>'⌃⌥Q'</ShortCut>
           <Description>Add to Watches</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Analyze with SonarLint">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'Leet721B'</Description>
-          <Count>2</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PushConditionHelperTest.get2'">
@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>421</Count>
+          <Count>422</Count>
         </Item>
       </Statistic>
       <Statistic Action="Mark Object...">
@@ -262,7 +262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>341</Count>
+          <Count>343</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -406,7 +406,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
           <Description>Stop 'Leet721B'</Description>
-          <Count>3</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ModelTest.testAllModels'">
@@ -518,7 +518,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>201</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
