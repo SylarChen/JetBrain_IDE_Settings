@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="二级缓存" />
+      <item value="/** * Load the initial caches for this cache manager. * &lt;p&gt;Called by {@link #afterPropertiesSet()} on startup. * The returned collection may be empty but must not be {@code null}. */" />
+      <item value="* Initialize the static configuration of caches. * &lt;p&gt;Triggered on startup through {@link #afterPropertiesSet()}; * can also be called to re-initialize at runtime. * @since 4.2.2 * @see #loadCaches()" />
       <item value="internal" />
       <item value="* Return the value to which this cache maps the specified key, obtaining * that value from {@code valueLoader} if necessary. This method provides * a simple substitute for the conventional &quot;if cached, return; otherwise * create, cache and return&quot; pattern." />
       <item value="irrelevant" />
@@ -18,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
