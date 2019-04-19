@@ -1,0 +1,21 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="the value to which this cache maps the specified key, * contained within a {@link ValueWrapper} which may also hold * a cached {@code null} value. A straight {@code null} being * returned means that the cache contains no mapping for this key. * @see #get(Object, Class)" />
+      <item value="the key whose associated value is to be returned" />
+      <item value="Return the value to which this cache maps the specified key" />
+      <item value="Return" />
+      <item value="associate" />
+      <item value="阿萨德" />
+      <item value="/** * Return the value to which this cache maps the specified key. * &lt;p&gt;Returns {@code null} if the cache contains no mapping for this key; * otherwise, the cached value (which may be {@code null} itself) will * be returned in a {@link ValueWrapper}. * @param key the key whose associated value is to be returned * @return the value to which this cache maps the specified key, * contained within a {@link ValueWrapper} which may also hold * a cached {@code null} value. A straight {@code null} being * returned means that the cache contains no mapping for this key. * @see #get(Object, Class) */" />
+      <item value="that" />
+      <item value="which" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+</application>
