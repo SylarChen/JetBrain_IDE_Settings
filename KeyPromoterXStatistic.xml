@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>637</Count>
+          <Count>650</Count>
         </Item>
       </Statistic>
       <Statistic Action="Mark Object...">
