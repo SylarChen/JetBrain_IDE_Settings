@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预约" />
       <item value="二级缓存" />
       <item value="/** * Load the initial caches for this cache manager. * &lt;p&gt;Called by {@link #afterPropertiesSet()} on startup. * The returned collection may be empty but must not be {@code null}. */" />
       <item value="* Initialize the static configuration of caches. * &lt;p&gt;Triggered on startup through {@link #afterPropertiesSet()}; * can also be called to re-initialize at runtime. * @since 4.2.2 * @see #loadCaches()" />
