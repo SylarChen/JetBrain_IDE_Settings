@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amount" />
+      <item value="少量" />
+      <item value="余票紧张" />
       <item value="sold Out" />
       <item value="预约" />
       <item value="二级缓存" />
@@ -23,7 +26,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="16" />
       </map>
     </option>
