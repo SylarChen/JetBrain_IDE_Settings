@@ -30,7 +30,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃F9' or '⌃B'</ShortCut>
           <Description>Build Project</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>984</Count>
+          <Count>986</Count>
         </Item>
       </Statistic>
       <Statistic Action="Mark Object...">
@@ -390,7 +390,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>540</Count>
+          <Count>542</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BusListRequestBuilderTest.build'">
@@ -614,7 +614,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>158</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
