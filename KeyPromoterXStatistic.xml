@@ -326,7 +326,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1307</Count>
+          <Count>1322</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -694,7 +694,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>653</Count>
+          <Count>658</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -718,7 +718,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⌃⇧F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
     </option>
