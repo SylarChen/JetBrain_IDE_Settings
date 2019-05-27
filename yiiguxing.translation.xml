@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有效进球" />
+      <item value="有效" />
       <item value="as" />
       <item value="5天以外" />
       <item value="5天意外" />
@@ -36,7 +38,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
