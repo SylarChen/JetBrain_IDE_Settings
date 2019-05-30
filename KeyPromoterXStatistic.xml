@@ -577,6 +577,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ListEndDc'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
+          <Description>Stop 'ListEndDc'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ListMultiPlaceRequestValidatorTest.checkInterval2'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -734,7 +742,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>315</Count>
+          <Count>317</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
