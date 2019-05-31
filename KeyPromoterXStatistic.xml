@@ -38,7 +38,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌃F4'</ShortCut>
           <Description>Close</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close All">
@@ -798,7 +798,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>359</Count>
+          <Count>361</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
