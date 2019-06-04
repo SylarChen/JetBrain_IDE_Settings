@@ -233,6 +233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'WorldListSearchResponseBuilder'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
+          <Description>Debug 'WorldListSearchResponseBuilder'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1606</Count>
+          <Count>1607</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -366,7 +374,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1881</Count>
+          <Count>1884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -769,6 +777,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'WorldListSearchResponseBuilder'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
+          <Description>Stop 'WorldListSearchResponseBuilder'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.ctrip.flight.mobile.home.fuzzysearch.domain.poi in fuzzy-search-domain'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -814,7 +830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>840</Count>
+          <Count>845</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
