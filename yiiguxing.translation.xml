@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已优惠" />
+      <item value="立减" />
+      <item value="优惠" />
+      <item value="预定" />
       <item value="Monitored" />
       <item value="SCENE" />
       <item value="Middle" />
@@ -41,7 +45,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
