@@ -166,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'IntlAggDc'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'IntlSearchHandllerImpl'">
@@ -630,7 +630,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
           <Description>Stop 'IntlAggDc'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IntlRtMiddlePageUrlGeneratorTest.test'">
