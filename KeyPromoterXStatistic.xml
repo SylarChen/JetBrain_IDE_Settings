@@ -166,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'IntlAggDc'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'IntlSearchHandllerImpl'">
@@ -630,7 +630,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
           <Description>Stop 'IntlAggDc'</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IntlRtMiddlePageUrlGeneratorTest.test'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
           <Description>Stop 'StreamClient'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TrainGrabTicketInfoHelperTest.getProductInfo'">
