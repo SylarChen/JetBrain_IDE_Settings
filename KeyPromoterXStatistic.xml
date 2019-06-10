@@ -345,6 +345,14 @@
           <Count>241</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reload PlantUml Diagrams">
+        <Item>
+          <IdeaActionID>PlantUML.Reload</IdeaActionID>
+          <ShortCut>'⌃⌥⇧G'</ShortCut>
+          <Description>Reload PlantUml Diagrams</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
