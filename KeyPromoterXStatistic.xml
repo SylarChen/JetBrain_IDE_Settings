@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>525</Count>
+          <Count>528</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BusListRequestBuilderTest.build'">
@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2007</Count>
+          <Count>2017</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -406,7 +406,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2318</Count>
+          <Count>2326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -518,7 +518,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>1013</Count>
+          <Count>1017</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BusListRequestBuilderTest.build'">
@@ -606,6 +606,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
           <Description>Stop 'DestinationConvertorTest.convertToDestinationsMultiRt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FlightInfoUtil'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
+          <Description>Stop 'FlightInfoUtil'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -878,7 +886,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>487</Count>
+          <Count>488</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -886,7 +894,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1051</Count>
+          <Count>1059</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -918,7 +926,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⌃⇧F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>80</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
     </option>
