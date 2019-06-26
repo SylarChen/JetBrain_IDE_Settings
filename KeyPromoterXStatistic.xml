@@ -382,7 +382,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>244</Count>
+          <Count>246</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload PlantUml Diagrams">
@@ -934,7 +934,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>516</Count>
+          <Count>517</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
