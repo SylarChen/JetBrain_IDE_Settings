@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2262</Count>
+          <Count>2263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
