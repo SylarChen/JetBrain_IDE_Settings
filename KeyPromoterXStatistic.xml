@@ -30,7 +30,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃F9' or '⌃B'</ShortCut>
           <Description>Build Project</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -990,7 +990,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>603</Count>
+          <Count>604</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
