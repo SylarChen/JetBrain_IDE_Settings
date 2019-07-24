@@ -606,7 +606,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>1339</Count>
+          <Count>1341</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BaseFlightUrlGeneratorTest.hasTransit'">
