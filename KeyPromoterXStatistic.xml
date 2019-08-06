@@ -97,6 +97,14 @@
           <Count>218</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'A'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
+          <Description>Debug 'A'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'AggRoutesTranslatorImplTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -433,6 +441,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'A'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F11'</ShortCut>
+          <Description>Rerun 'A'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Application'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -606,7 +622,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>1538</Count>
+          <Count>1539</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BaseFlightUrlGeneratorTest.hasTransit'">
@@ -982,7 +998,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1014,7 +1030,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>900</Count>
+          <Count>901</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1022,7 +1038,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1684</Count>
+          <Count>1687</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
