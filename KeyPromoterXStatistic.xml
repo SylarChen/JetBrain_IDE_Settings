@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'A'</Description>
-          <Count>22</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AggRoutesTranslatorImplTest'">
@@ -502,7 +502,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4578</Count>
+          <Count>4620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -518,7 +518,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥⇧X' or '⇧F10'</ShortCut>
           <Description>Run 'A'</Description>
-          <Count>30</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -582,7 +582,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
           <Description>Stop 'A'</Description>
-          <Count>16</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AggRoutesTranslatorImplTest'">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1735</Count>
+          <Count>1752</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
