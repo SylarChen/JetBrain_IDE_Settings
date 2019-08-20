@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>844</Count>
+          <Count>847</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BusListRequestBuilderTest.build'">
@@ -518,7 +518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4753</Count>
+          <Count>4765</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -670,7 +670,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>1623</Count>
+          <Count>1631</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BaseFlightUrlGeneratorTest.hasTransit'">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>955</Count>
+          <Count>956</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1820</Count>
+          <Count>1821</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
