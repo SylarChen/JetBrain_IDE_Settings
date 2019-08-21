@@ -854,7 +854,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
           <Description>Stop 'IntlAggRoutesTranslatorImplTest'</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IntlAggRoutesTranslatorImplTest.translate'">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>978</Count>
+          <Count>979</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
