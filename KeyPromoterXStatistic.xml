@@ -86,7 +86,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5'</ShortCut>
           <Description>Debug</Description>
-          <Count>254</Count>
+          <Count>258</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'A'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>888</Count>
+          <Count>896</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BusListRequestBuilderTest.build'">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>3391</Count>
+          <Count>3398</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -518,7 +518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4973</Count>
+          <Count>4986</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -678,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>1705</Count>
+          <Count>1719</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BaseFlightUrlGeneratorTest.hasTransit'">
@@ -961,6 +961,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ReceiveCouponServiceImplTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
+          <Description>Stop 'ReceiveCouponServiceImplTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Rerun Failed Tests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1118,7 +1126,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1045</Count>
+          <Count>1052</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1126,7 +1134,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1913</Count>
+          <Count>1922</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -1158,7 +1166,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⌃⇧F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
     </option>
