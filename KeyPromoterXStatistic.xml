@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>897</Count>
+          <Count>898</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BusListRequestBuilderTest.build'">
@@ -518,7 +518,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5025</Count>
+          <Count>5032</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
