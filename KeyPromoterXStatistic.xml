@@ -721,6 +721,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BusRoutesTranslatorTest.translate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2' or '⌘F2'</ShortCut>
+          <Description>Stop 'BusRoutesTranslatorTest.translate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CalendarResponseLoggerTest.logKeyInfo3'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1142,7 +1150,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1080</Count>
+          <Count>1081</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
