@@ -30,7 +30,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃F9' or '⌃B'</ShortCut>
           <Description>Build Project</Description>
-          <Count>117</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -326,7 +326,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>119</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>GoTo</Description>
-          <Count>3572</Count>
+          <Count>3576</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -446,7 +446,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>398</Count>
+          <Count>403</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload PlantUml Diagrams">
@@ -678,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>1822</Count>
+          <Count>1824</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BaseFlightUrlGeneratorTest.hasTransit'">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1130</Count>
+          <Count>1131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
