@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D' or '⇧F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>953</Count>
+          <Count>955</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BusListRequestBuilderTest.build'">
@@ -686,7 +686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>1838</Count>
+          <Count>1842</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BaseFlightUrlGeneratorTest.hasTransit'">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2020</Count>
+          <Count>2021</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
