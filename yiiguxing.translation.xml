@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PERFORMANCE" />
+      <item value="REGION" />
       <item value="max Storage In PO" />
       <item value="Elaborate Handler" />
       <item value="Elaborate" />
@@ -49,9 +51,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1644926192018" />
   </component>
 </application>
