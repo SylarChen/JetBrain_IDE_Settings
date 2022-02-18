@@ -66,9 +66,7 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="GotoChangedFile" />
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="shift meta t" />
-  </action>
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="meta button1" />
