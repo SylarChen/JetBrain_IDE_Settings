@@ -12,7 +12,7 @@
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="bjsc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="proto" type="protobuf" />
+      <removed_mapping ext="proto" approved="true" type="protobuf" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
